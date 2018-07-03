@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Riddler</string>
+
+    <string name="start">Start</string>
+
+    <string name="result_message">Your result is %1$s%%</string>
+    <string name="quit_quiz_prompt">Press back again to quit quiz</string>
+    <string name="answer">Answer</string>
+    <string name="rxriddles">RxRiddles</string>
+
+    <string name="question_text">%1$d. %2$s</string>
+</resources>

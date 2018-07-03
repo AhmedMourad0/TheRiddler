@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_1_answer">observeOn</string>
+    <string name="question_2_answer">subscribeOn</string>
+    <string-array name="question_3_answer">
+        <item>Always implement onError when subscribing to a producer</item>
+        <item>Always dispose subscribers when you\'re done with them</item>
+    </string-array>
+    <string name="question_4_answer">Flowable</string>
+    <string name="question_5_answer">map returns a non-observable object while flatMap returns an observable</string>
+    <string name="question_6_answer">connect</string>
+    <string name="question_7_answer">flatMap</string>
+    <string name="question_8_answer">The preparation of data-flows by applying various intermediate operators</string>
+    <string name="question_9_answer">The app will crash with an ambiguous Rx stack trace</string>
+    <string-array name="question_10_answer">
+        <item>Observable</item>
+        <item>Flowable</item>
+    </string-array>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/text_card_margin_bottom"
+    android:layout_marginEnd="@dimen/text_card_margin_end"
+    android:layout_marginLeft="@dimen/text_card_margin_start"
+    android:layout_marginRight="@dimen/text_card_margin_end"
+    android:layout_marginStart="@dimen/text_card_margin_start"
+    android:layout_marginTop="@dimen/text_card_margin_top"
+    app:backgroundTint="@color/colorCardBackground"
+    app:cardCornerRadius="@dimen/text_card_corner_radius"
+    app:cardElevation="@dimen/text_card_elevation">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingEnd="@dimen/text_padding_end"
+        android:paddingStart="@dimen/text_padding_start"
+        android:paddingRight="@dimen/text_padding_end"
+        android:paddingLeft="@dimen/text_padding_start">
+
+        <TextView
+            android:id="@+id/text_question_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="1.3"
+            android:paddingTop="@dimen/text_question_padding_top"
+            android:paddingBottom="@dimen/text_question_padding_bottom"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_question_text_size"
+            tools:text="@string/question_1" />
+
+        <EditText
+            android:id="@+id/text_answer_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="@string/answer"
+            android:inputType="text"
+            android:imeOptions="actionDone"
+            android:layout_marginBottom="@dimen/text_answer_margin_bottom"
+            tools:text="@string/question_2_answer"/>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

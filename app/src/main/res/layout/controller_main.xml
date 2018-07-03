@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/category_text_text_size"
+        android:fontFamily="sans-serif-thin"
+        android:textColor="@color/colorAccent"
+        android:layout_marginBottom="@dimen/category_text_margin_bottom"
+        android:text="@string/rxriddles"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/main_start_fab"
+        android:layout_width="@dimen/start_fab_width"
+        android:layout_height="@dimen/start_fab_height"
+        app:fabSize="normal"
+        android:layout_gravity="center"
+        app:elevation="@dimen/fab_elevation"
+        android:src="@drawable/ic_start"
+        android:layout_marginBottom="@dimen/start_fab_margin_bottom"
+        android:text="@string/start"/>
+
+</LinearLayout>

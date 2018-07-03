@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_margin">32dp</dimen>
+    <dimen name="fab_width">56dp</dimen>
+    <dimen name="fab_height">56dp</dimen>
+
+    <dimen name="text_card_margin_end">8dp</dimen>
+    <dimen name="text_card_margin_start">8dp</dimen>
+
+    <dimen name="start_fab_width">100dp</dimen>
+    <dimen name="start_fab_height">100dp</dimen>
+    <dimen name="start_fab_margin_bottom">32dp</dimen>
+
+    <dimen name="category_text_text_size">40sp</dimen>
+    <dimen name="category_text_margin_bottom">16dp</dimen>
+
+    <dimen name="multi_card_margin_bottom">40dp</dimen>
+    <dimen name="multi_card_margin_top">40dp</dimen>
+    <dimen name="multi_card_corner_radius">1dp</dimen>
+    <dimen name="multi_card_elevation">2dp</dimen>
+
+    <dimen name="multi_text_padding_end">8dp</dimen>
+    <dimen name="multi_text_padding_top">16dp</dimen>
+    <dimen name="multi_text_padding_bottom">8dp</dimen>
+    <dimen name="multi_text_padding_start">8dp</dimen>
+    <dimen name="multi_text_text_size">20sp</dimen>
+
+    <dimen name="text_card_margin_top">40dp</dimen>
+    <dimen name="text_card_corner_radius">1dp</dimen>
+    <dimen name="text_card_elevation">2dp</dimen>
+    <dimen name="text_card_margin_bottom">40dp</dimen>
+
+    <dimen name="text_padding_end">8dp</dimen>
+    <dimen name="text_padding_start">8dp</dimen>
+
+    <dimen name="text_question_padding_top">16dp</dimen>
+    <dimen name="text_question_padding_bottom">8dp</dimen>
+    <dimen name="text_question_text_size">20sp</dimen>
+
+    <dimen name="text_answer_margin_bottom">16dp</dimen>
+
+    <dimen name="multi_answer_margin_end">16dp</dimen>
+    <dimen name="multi_answer_margin_start">16dp</dimen>
+    <dimen name="multi_answer_padding_bottom">24dp</dimen>
+    <dimen name="multi_answer_padding_end">0dp</dimen>
+    <dimen name="multi_answer_padding_start">8dp</dimen>
+    <dimen name="multi_answer_padding_top">24dp</dimen>
+    <dimen name="multi_answer_text_size">18sp</dimen>
+
+    <dimen name="multi_choice_margin_end">16dp</dimen>
+    <dimen name="multi_choice_margin_start">16dp</dimen>
+    <dimen name="multi_choice_margin_bottom">24dp</dimen>
+    <dimen name="multi_choice_padding_end">0dp</dimen>
+    <dimen name="multi_choice_padding_start">8dp</dimen>
+    <dimen name="multi_choice_padding_top">24dp</dimen>
+    <dimen name="multi_choice_text_size">18sp</dimen>
+</resources>

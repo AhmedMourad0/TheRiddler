@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question_1_wrong_answers">
+        <item>subscribeOn</item>
+        <item>operateOn</item>
+        <item>listenOn</item>
+        <item>runOn</item>
+    </string-array>
+    <string-array name="question_2_wrong_answers">
+        <item>observeOn</item>
+        <item>operateOn</item>
+        <item>listenOn</item>
+        <item>runOn</item>
+    </string-array>
+    <string-array name="question_3_wrong_answers">
+        <item>Always start observables on the main thread</item>
+        <item>Never start observables on the main thread</item>
+    </string-array>
+    <string-array name="question_5_wrong_answers">
+        <item>flatMap returns a non-observable object while map returns an observable</item>
+        <item>flatMap processes items asynchronously while map processes them synchronously</item>
+        <item>map processes items asynchronously while flatMap processes them synchronously</item>
+    </string-array>
+    <string-array name="question_8_wrong_answers">
+        <item>The time of the day you code in Assembly</item>
+        <item>The 20th century</item>
+        <item>The time RxJava forces you to code in Assembly</item>
+    </string-array>
+    <string-array name="question_9_wrong_answers">
+        <item>Nothing happens</item>
+        <item>You get a compile-time error</item>
+        <item>You get a warning</item>
+        <item>RxJava handles it for you and prints a proper stack trace when an error occurs</item>
+    </string-array>
+    <string-array name="question_10_wrong_answers">
+        <item>Single</item>
+        <item>Completable</item>
+    </string-array>
+</resources>

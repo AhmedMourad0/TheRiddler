@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_1">What method is used to specify the Scheduler on which an observer will observe this Observable?</string>
+    <string name="question_2">What method is used to specify the Scheduler on which an Observable will operate?</string>
+    <string name="question_3">What rule(s) should you always remember when using RxJava?</string>
+    <string name="question_4">Which producer would you use when you expect items to be emitted rapidly?</string>
+    <string name="question_5">What is the difference between map and flatMap operators?</string>
+    <string name="question_6">What method do you call to create a hot observable?</string>
+    <string name="question_7">If you have multiple network requests that depend on the response of each other, which operator would you use to concat them?</string>
+    <string name="question_8">What is Assembly time?</string>
+    <string name="question_9">What happens when you don\'t implement onError when you subscribe?</string>
+    <string name="question_10">Which producer(s) would you consider when you expect multiple items to be emitted?</string>
+</resources>
