@@ -1,6 +1,7 @@
 *.iml
 .gradle
+.idea
 /local.properties
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
+libs/
+app/src/main/res/drawable-v24/
+src/main/res/drawable-v24/
