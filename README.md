@@ -1,4 +1,4 @@
-# Score Counter
+# The Riddler
 
 ## Project Overview
 This's a project for the Android Basics Nanodegree Program.
