@@ -9,8 +9,8 @@ This's a project for the Android Basics Nanodegree Program.
 
 ![Screenshot 1](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/2.jpg?raw=true)
 
-![Screenshot 1](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/3.jpg?raw=true)
+![Screenshot 2](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/3.jpg?raw=true)
 
-![Screenshot 1](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/4.jpg?raw=true)
+![Screenshot 3](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/4.jpg?raw=true)
 
-![Screenshot 1](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/5.jpg?raw=true)
+![Screenshot 4](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/5.jpg?raw=true)
