@@ -10,12 +10,18 @@ TheRiddler is an extendible Quiz/Test app that supports different types of quest
 
 ## Screenshots
 
-![Screenshot 0](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/1.jpg?raw=true)
+![Screenshot 0](/screenshots/0.jpg)
 
-![Screenshot 1](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/2.jpg?raw=true)
+![Screenshot 1](/screenshots/1.jpg)
 
-![Screenshot 2](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/3.jpg?raw=true)
+![Screenshot 2](/screenshots/2.jpg)
 
-![Screenshot 3](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/4.jpg?raw=true)
+![Screenshot 3](/screenshots/3.jpg)
 
-![Screenshot 4](https://github.com/AhmedMouradDev/Android-Basics-Nanodegree_Project-3/blob/master/screenshots/5.jpg?raw=true)
+![Screenshot 4](/screenshots/4.jpg)
+
+![Screenshot 5](/screenshots/5.jpg)
+
+![Screenshot 6](/screenshots/6.jpg)
+
+
