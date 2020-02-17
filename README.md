@@ -1,7 +1,12 @@
 # The Riddler
 
 ## Project Overview
-This's a project for the Android Basics Nanodegree Program.
+TheRiddler is an extendible Quiz/Test app that supports different types of questions.
+
+## Key Concepts
+- A custom version of MVC arceticture
+- Extendible question types
+- Conductor, Parceler, ButterKnife
 
 ## Screenshots
 
